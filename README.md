@@ -11,3 +11,5 @@ Usage :
 
 Linux_proc_process_reading > Linux_proc_process_reading.txt
 
+It is an interesting alternative to existing programs such as top or ps,
+the information you will get with this code is really more exhaustive.
